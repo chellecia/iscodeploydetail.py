@@ -34,13 +34,13 @@ department = st.selectbox(
     "Select your department:",
     [
         'CS/IT Engineering',
-        'Other',
         'EEE/ECE Engineering',
         'Env/Life Sciences',
         'Business/Entrepreneurship',
         'Biological Sciences',
         'Civil Engineering',
-        'Mechanical Engineering'
+        'Mechanical Engineering',
+        'Other'
     ]
 )
 
