@@ -9,7 +9,7 @@ model_stress = load_model('model_stress')
 model_depression = load_model('model_depression')
 
 # Streamlit App
-st.title("🌿 Mental Health Prediction App 🌿")
+st.title("🌿Mental Health Prediction App🌿")
 st.write("""
 Welcome to the Mental Health Prediction App! This tool is designed to assess your likelihood of experiencing anxiety, stress, and depression. 
 By providing some details about your personal and academic life, you can receive insights tailored to your current mental health status. 
