@@ -2,4 +2,3 @@ streamlit
 pycaret
 numpy
 pandas
-pickle
