@@ -15,6 +15,7 @@ Welcome to the Mental Health Prediction App for Students!
 
 This tool is designed to assess your likelihood of experiencing anxiety, stress, and depression based on your personal and academic life. 
 By providing some details, you can receive insights tailored to your current mental health status as a student.
+
 Please fill out the form below to get started.
 """)
 
@@ -33,7 +34,7 @@ value_options_gender = [1, 2]
 gender = value_options_gender[display_options_gender.index(gender)]
 
 department = st.selectbox(
-    "Select your department (Select your department from the list based on your major or field of study.):",
+    "Select your department (Select your department from the list based on your major or field of study):",
     [
         'CS/IT Engineering',
         'EEE/ECE Engineering',
