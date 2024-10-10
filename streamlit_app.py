@@ -34,7 +34,7 @@ value_options_gender = [1, 2]
 gender = value_options_gender[display_options_gender.index(gender)]
 
 department = st.selectbox(
-    "Select your department (Select your department from the list based on your major or field of study):",
+    "Select your department based on your major or field of study. You can find the list of departments and their programs in the KTI document :",
     [
         'CS/IT Engineering',
         'EEE/ECE Engineering',
