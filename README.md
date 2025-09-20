@@ -13,11 +13,3 @@ This Streamlit-powered web application helps assess the likelihood of experienci
 - 📊 Tailored insights to help students better understand their current mental health status.  
 - 🌐 Built with **Streamlit** for an interactive and responsive experience.  
 
----
-
-## 🚀 How to Run Locally  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/mental-health-prediction.git
-   cd mental-health-prediction
