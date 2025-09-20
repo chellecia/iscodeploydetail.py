@@ -1,19 +1,23 @@
-# 🎈 Blank app template
+## 🌿 Mental Health Prediction App  
 
-A simple Streamlit app template for you to modify!
+Welcome to the **Mental Health Prediction App for Students**! 🎓  
+This Streamlit-powered web application helps assess the likelihood of experiencing **anxiety, stress, and depression** based on academic and personal life factors.  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+👉 Try it here: [Mental Health Prediction App](https://predictmentalhealth.streamlit.app/)  
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## ✨ Features  
+- 📝 Simple and user-friendly form to input personal and academic details.  
+- 🔍 Instant prediction on potential **mental health conditions** (stress, anxiety, depression).  
+- 📊 Tailored insights to help students better understand their current mental health status.  
+- 🌐 Built with **Streamlit** for an interactive and responsive experience.  
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+---
 
-2. Run the app
+## 🚀 How to Run Locally  
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/mental-health-prediction.git
+   cd mental-health-prediction
